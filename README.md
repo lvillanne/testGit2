@@ -43,3 +43,5 @@ Un premier test de github
 Petite modification pour tester
 
 Test du **markdown** en *même temps*.
+
+Test de l'édition *en ligne* 
