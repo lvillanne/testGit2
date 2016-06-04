@@ -32,7 +32,7 @@ Voici un code en C :
 
 `printf()`
 
-Test de lien vers [google](www.google.fr) qui permet des recherches
+Test de lien vers [google](http://www.google.fr) qui permet des recherches
 
 même fonctionnement pour les images mais avec un "!" devant
 
