@@ -50,3 +50,5 @@ fin du fichier
 
 ajout de texte dans la branche 2
 Et un peu plus
+
+ajout de texte dans la branche 3
