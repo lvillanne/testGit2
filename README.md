@@ -47,3 +47,5 @@ Test du **markdown** en *même temps*.
 Test de l'édition *en ligne* 
 
 fin du fichier
+
+ajout de texte dans la branche 2
